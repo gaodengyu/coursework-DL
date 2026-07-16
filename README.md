@@ -1,6 +1,6 @@
 # Deep Learning Coursework
 
-> 深度学习课程作业合集 | BSAI @ CUHKSZ
+> 深度学习课程作业合集 | BSAI @ M.U.S.T.
 
 三门核心作业，从底层实现到前沿模型，覆盖现代深度学习的完整知识链。
 
